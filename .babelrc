@@ -1,0 +1,10 @@
+{
+  "presets": [
+    "env",
+    "react-app"
+  ],
+  "plugins": [
+    "syntax-dynamic-import",
+    "dynamic-import-node",
+  ]
+}
